@@ -1,0 +1,18 @@
+.date-move-btn{
+  font-weight: 900;
+  font-size: 15px;
+  color: #FFFFFF;
+  background-color: #8F93C9;
+  border-color : #8F93C9;
+}
+
+.center-btn-group{
+  background-color: #8F93C9;
+  margin: auto;
+  text-align:center;
+}
+
+.t-today-text{
+  color: #FFFFFF;
+  letter-spacing :3px;
+}

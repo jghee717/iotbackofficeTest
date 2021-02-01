@@ -1,0 +1,7 @@
+{
+    "require": {
+        "catfan/medoo": "^1.6",
+        "guzzlehttp/guzzle": "^6.3",
+        "apache/log4php": "^2.3"
+    }
+}

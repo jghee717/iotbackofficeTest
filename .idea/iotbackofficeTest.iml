@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/apache/log4php" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/catfan/medoo" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/ralouphie/getallheaders" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
